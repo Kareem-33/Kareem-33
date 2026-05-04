@@ -40,11 +40,17 @@ Vercel, Netlify, Render
 ### 🧰 Tools
 Git, GitHub, Docker  
 Postman, Vite, NPM  
-Figma
+Figma  
 
 ---
 
 ## 📌 Featured Projects
+
+### 💼 Refact Studio (Agency Website)
+- Built scalable component-based architecture using React & TypeScript  
+- Implemented dynamic project/blog system with filtering & pagination  
+- Created interactive UI (animations, sliders, responsive navigation)  
+- Integrated forms with React Hook Form & EmailJS  
 
 ### 💬 ChatUp (Real-Time Chat App)
 - Real-time messaging with Socket.IO  
@@ -60,12 +66,5 @@ Figma
 - Appointment booking system  
 - Admin dashboards for clinics & doctors  
 - Full backend + frontend system  
-
----
-
-## 🎯 Current Focus
-- Improving system design & backend scalability  
-- Writing cleaner, production-level code  
-- Landing my first software engineering role  
 
 ---
