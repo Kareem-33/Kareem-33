@@ -40,6 +40,7 @@ Vercel, Netlify, Render
 ### 🧰 Tools
 Git, GitHub, Docker  
 Postman, Vite, NPM  
+Figma
 
 ---
 
