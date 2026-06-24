@@ -2,7 +2,7 @@
 
 Full-Stack Developer building scalable, production-ready web applications.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://kareemrefaat.netlify.app/](https://kareem-refaat.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kareem-refaat.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kareem%20Refaat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-refaat-dev)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karemrefaat33@gmail.com)
 
